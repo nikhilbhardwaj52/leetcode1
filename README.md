@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0012-integer-to-roman) |
+| [0344-reverse-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0415-add-strings) |
 ## Sliding Window
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
