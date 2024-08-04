@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0415-add-strings) |
+| [0686-repeated-string-match](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0686-repeated-string-match) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0344-reverse-string) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
