@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0415-add-strings) |
 ## String
 |  |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0686-repeated-string-match) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
