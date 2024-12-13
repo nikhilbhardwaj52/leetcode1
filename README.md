@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0560-subarray-sum-equals-k) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
