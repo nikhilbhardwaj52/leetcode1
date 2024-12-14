@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0169-majority-element) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0070-climbing-stairs) |
 ## Memoization
@@ -88,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0078-subsets) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
