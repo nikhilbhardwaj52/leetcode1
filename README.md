@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0136-single-number) |
 ## Stack
 |  |
 | ------- |
