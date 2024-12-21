@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0415-add-strings) |
 ## Greedy
 |  |
@@ -128,5 +130,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
