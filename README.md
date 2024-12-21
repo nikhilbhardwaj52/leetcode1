@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Counting
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
@@ -127,9 +130,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0073-set-matrix-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
