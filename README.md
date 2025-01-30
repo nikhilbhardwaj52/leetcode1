@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
