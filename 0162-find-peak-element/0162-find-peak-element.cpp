@@ -3,7 +3,7 @@ public:
     int findPeakElement(vector<int>& nums) {
         int start = 0, end = nums.size() - 1;
         
-        while (start < end) {
+        while (start <= end) {
             int mid = start + (end - start) / 2;
             
             // Check if mid is a peak
@@ -18,11 +18,11 @@ public:
             } 
             // Otherwise, search the left half
             else {
-                end = mid;
+                end = mid-1;
             }
         }
         
-        // When start == end, we have found the peak
-        return start;
+        
+        return -1;
     }
 };
