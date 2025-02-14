@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0415-add-strings) |
 | [0686-repeated-string-match](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0686-repeated-string-match) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
