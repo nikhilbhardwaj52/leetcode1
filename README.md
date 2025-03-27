@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0054-spiral-matrix) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
