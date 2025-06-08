@@ -15,6 +15,7 @@ public:
         ListNode* temp=head;
         int length=0;
         if(head==NULL)return NULL;
+        if(head->next==NULL)return head;
         while(temp)
         {  
             length++;
