@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0268-missing-number) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0344-reverse-string) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
