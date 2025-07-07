@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0948-sort-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2195-time-needed-to-buy-tickets](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2195-time-needed-to-buy-tickets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0874-backspace-string-compare) |
+| [2195-time-needed-to-buy-tickets](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2195-time-needed-to-buy-tickets) |
 | [2470-removing-stars-from-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2470-removing-stars-from-a-string) |
 ## Greedy
 |  |
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1908-recyclable-and-low-fat-products) |
+## Queue
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
