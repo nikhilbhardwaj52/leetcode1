@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0136-single-number) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0215-kth-largest-element-in-an-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0189-rotate-array) |
