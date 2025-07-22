@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2195-time-needed-to-buy-tickets) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0874-backspace-string-compare) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2195-time-needed-to-buy-tickets) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2470-removing-stars-from-a-string) |
 ## Greedy
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String Matching
 |  |
 | ------- |
