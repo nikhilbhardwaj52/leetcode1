@@ -1,37 +1,27 @@
 class Solution {
 public:
-    vector<int> rearrangeArray(vector<int>& arr) {
-            
-            vector<int>vect1;
-            vector<int>vect2;
-            vector<int>vect3;
+    vector<int> rearrangeArray(vector<int>& nums) {
 
-            for(int i=0;i<arr.size();i++)
+        int n=nums.size();
+        vector<int>vt(n);
+        int k=0;
+        int j=1;
+
+        for(int i=0;i<nums.size();i++)
+        {
+            if(nums[i]>0)
             {
-                if(arr[i]>0)
-                {
-                    vect1.push_back(arr[i]);
-                }
-                else if(arr[i]<0)
-                {
-                    vect2.push_back(arr[i]);
-                }
-                
+               vt[k]=nums[i];
+               k+=2;
             }
-            int i=0;
-            int j=0;
-
-            while(i<vect1.size()&&j<vect2.size())
+            else
             {
-                vect3.push_back(vect1[i++]);
-                vect3.push_back(vect2[j++]);
-
+                vt[j]=nums[i];
+                j+=2;
             }
+        }
 
 
-            return vect3;
-                
-       }
-       
-    
+       return vt; 
+    }
 };
