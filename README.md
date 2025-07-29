@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0742-to-lower-case) |
 | [0874-backspace-string-compare](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0874-backspace-string-compare) |
+| [1894-merge-strings-alternately](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1970-sorting-the-sentence) |
 | [2470-removing-stars-from-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String Matching
