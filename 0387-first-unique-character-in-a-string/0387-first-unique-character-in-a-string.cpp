@@ -2,16 +2,16 @@ class Solution {
 public:
     int firstUniqChar(string s) {
 
-        unordered_map<char,int>mpp;
+        vector<int>mpp(26,0);
 
         for(int i=0;i<s.size();i++)
         {
-            mpp[s[i]]++;
+            mpp[s[i]-'a']++;
         }
 
         for(int i=0;i<s.size();i++)
         {
-            if(mpp[s[i]]==1)
+            if(mpp[s[i]-'a']==1)
             {
                 return i;
             }
