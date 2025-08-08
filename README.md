@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0643-maximum-average-subarray-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0283-move-zeroes) |
