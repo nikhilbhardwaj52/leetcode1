@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0268-missing-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0268-missing-number) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
