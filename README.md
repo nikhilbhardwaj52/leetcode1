@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0643-maximum-average-subarray-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0643-maximum-average-subarray-i) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0907-koko-eating-bananas) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0948-sort-an-array) |
 | [1970-sorting-the-sentence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1970-sorting-the-sentence) |
 ## Counting
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
