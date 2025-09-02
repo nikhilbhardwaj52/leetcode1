@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0874-backspace-string-compare) |
+| [1078-remove-outermost-parentheses](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1078-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1970-sorting-the-sentence) |
 | [2470-removing-stars-from-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2470-removing-stars-from-a-string) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0042-trapping-rain-water) |
 | [0874-backspace-string-compare](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0874-backspace-string-compare) |
+| [1078-remove-outermost-parentheses](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
