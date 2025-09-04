@@ -9,11 +9,11 @@ public:
             q.push(s[i]);
         }
         queue<char>q1;
-    for(int j=0;j<goal.size();j++)
-    {
+       for(int j=0;j<goal.size();j++)
+        {
         q1.push(goal[j]);
-    }
-    int n=s.size();
+         }
+        int n=s.size();
         while(n>0)
         {
             char a=q.front();
@@ -30,6 +30,6 @@ public:
            
         }
 
-    return false;
-    }
-};
+         return false;
+        }
+    };
