@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0415-add-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1078-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1970-sorting-the-sentence) |
+| [2032-largest-odd-number-in-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2032-largest-odd-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0409-longest-palindrome) |
+| [2032-largest-odd-number-in-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2032-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
