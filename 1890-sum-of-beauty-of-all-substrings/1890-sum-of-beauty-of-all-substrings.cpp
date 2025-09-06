@@ -11,7 +11,7 @@ public:
                {
                    v[s[j]-'a']++;
                     
-                    int maxi=INT_MIN;
+                    int maxi=0;
                     int mini=INT_MAX;
                     for(int f:v)
                     {
