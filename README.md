@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0415-add-strings) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0948-sort-an-array) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1646-kth-missing-positive-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2195-time-needed-to-buy-tickets) |
