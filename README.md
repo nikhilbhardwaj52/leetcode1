@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0415-add-strings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0326-power-of-three) |
 ## Database
 |  |
 | ------- |
