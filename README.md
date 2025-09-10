@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2032-largest-odd-number-in-string) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1646-kth-missing-positive-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -361,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0102-binary-tree-level-order-traversal) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
