@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0812-rotate-string) |
