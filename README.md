@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2032-largest-odd-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2470-removing-stars-from-a-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2887-sort-vowels-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0948-sort-an-array) |
 | [1970-sorting-the-sentence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1970-sorting-the-sentence) |
+| [2887-sort-vowels-in-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
