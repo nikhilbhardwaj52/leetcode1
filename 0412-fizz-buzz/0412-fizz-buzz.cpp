@@ -2,25 +2,23 @@ class Solution {
 public:
     vector<string> fizzBuzz(int n) {
         vector<string>vt;
-        string s1="Fizz";
-        string s2="FizzBuzz";
-        string s3="Buzz";
+        
 
         for(int i=1;i<=n;i++)
         {
             if(i%3==0&&i%5==0)
             {
-                vt.push_back(s2);
+                vt.push_back("FizzBuzz");
                 continue;
             }
             else if(i%3==0)
             {
-                vt.push_back(s1);
+                vt.push_back("Fizz");
                 continue;
             }
             else if(i%5==0)
             {
-                vt.push_back(s3);
+                vt.push_back("Buzz");
                 continue;
             }
          
