@@ -1,23 +1,27 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        unordered_map<char,int>mp;
-        for(int i=0;i<magazine.size();i++)
+        vector<int>vt(26,0);
+        for(char c:magazine)
         {
-            mp[magazine[i]]++;
-        }
+            vt[c-'a']++;
 
-        for(int i=0;i<ransomNote.size();i++)
+          
+            }
+    
+        for(char c:ransomNote)
         {
-            if(mp[ransomNote[i]]>0)
+            if(vt[c-'a']>0)
             {
-                mp[ransomNote[i]]--;
+               vt[c-'a']--;
             }
             else
             {
                 return false;
             }
         }
+
+        
 
     return true;
     }
