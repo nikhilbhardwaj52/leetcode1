@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0415-add-strings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0520-detect-capital) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0874-backspace-string-compare) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2195-time-needed-to-buy-tickets) |
