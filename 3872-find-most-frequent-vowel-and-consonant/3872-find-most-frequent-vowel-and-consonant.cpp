@@ -5,32 +5,22 @@ public:
         return c=='a'||c=='i'||c=='e'||c=='o'||c=='u';
     }
     int maxFreqSum(string s) {
-        
-          vector<int>v(26,0);
-          vector<int>ct(26,0);
+        unordered_map<char,int>m;
+        int count1=0;
+        int count2=0;
+        for(char c:s)
+        {
+            if(isvowel(c))
+            {
+            m[c]++;
+            count1=max(m[c],count1);
+            }
+         else {
+            m[c]++;
+            count2=max(m[c],count2);
+         }
+        }
 
-          for(char c:s)
-          {
-              if(isvowel(c))
-              {
-                v[c-'a']++;
-              }
-              else
-              {
-                ct[c-'a']++;
-              }
-          }
-          int maxi=0;
-          for(int i=0;i<v.size();i++)
-          {
-               maxi=max(maxi,v[i]);
-          }
-        int maxi2=0;
-          for(int i=0;i<ct.size();i++)
-          {
-            maxi2=max(maxi2,ct[i]);
-          }
-        
-      return maxi+maxi2;
+        return count1+count2;
     }
 };
