@@ -20,12 +20,12 @@ public:
                 ct[c-'a']++;
               }
           }
-          int maxi=INT_MIN;
+          int maxi=0;
           for(int i=0;i<v.size();i++)
           {
                maxi=max(maxi,v[i]);
           }
-        int maxi2=INT_MIN;
+        int maxi2=0;
           for(int i=0;i<ct.size();i++)
           {
             maxi2=max(maxi2,ct[i]);
