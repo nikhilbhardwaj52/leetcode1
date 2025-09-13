@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2470-removing-stars-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
