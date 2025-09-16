@@ -20,7 +20,6 @@ public:
 
     vector<int> replaceNonCoprimes(vector<int>& nums) {
         vector<int>st;
-        vector<int>vect;
 
            for(int num:nums)
            {
@@ -28,9 +27,9 @@ public:
            
                   while(st.size()>1)
                   {
-                      int a= st.back();
+                      int  a= st.back();
                       st.pop_back();
-                      int b=st.back();
+                    int b=st.back();
                       st.pop_back();
 
                       if(gcd(a,b)>1)
