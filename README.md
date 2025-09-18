@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0445-add-two-numbers-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2032-largest-odd-number-in-string) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0042-trapping-rain-water) |
+| [0445-add-two-numbers-ii](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0445-add-two-numbers-ii) |
 | [0874-backspace-string-compare](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
