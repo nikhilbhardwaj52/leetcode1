@@ -7,11 +7,11 @@ public:
         {
             m[nums[i]]++;
         }
-        for(auto &p:m)
+        for(auto it=m.begin();it!=m.end();it++)
         {
-            if(p.second>nums.size()/3)
+            if(it->second>nums.size()/3)
             {
-              vt.push_back(p.first);
+              vt.push_back(it->first);
              
             }
         }
