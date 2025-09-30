@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0874-backspace-string-compare) |
+| [0953-reverse-only-letters](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0953-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0908-middle-of-the-linked-list) |
+| [0953-reverse-only-letters](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0953-reverse-only-letters) |
 | [1894-merge-strings-alternately](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2271-rearrange-array-elements-by-sign) |
