@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2032-largest-odd-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2470-removing-stars-from-a-string) |
+| [2886-faulty-keyboard](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2470-removing-stars-from-a-string) |
+| [2886-faulty-keyboard](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2886-faulty-keyboard) |
 ## Greedy
 |  |
 | ------- |
