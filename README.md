@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0643-maximum-average-subarray-i) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0874-backspace-string-compare) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0498-diagonal-traverse](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0498-diagonal-traverse) |
 ## Merge Sort
 |  |
 | ------- |
