@@ -166,11 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0560-subarray-sum-equals-k) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Simulation
 |  |
 | ------- |
