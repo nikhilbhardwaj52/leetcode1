@@ -1,22 +1,29 @@
 class Solution {
 public:
- 
-    string has(string &s)
-    {
-        string s2="";
-        for(int i=0;i<s.size()-1;i++)
-        {
-            int a=((s[i]-'0')+(s[i+1]-'0'))%10;
-            s2+=to_string(a);
-        }
-        return s2;
-    }
     bool hasSameDigits(string s) {
-        while(s.size()>2)
-        {
-            s=has(s);
-        }
+         
+          vector<int>digit;
+          for(char c:s){
+        
+            digit.push_back(c-'0');
 
-        return s[0]==s[1];
+          }
+
+          while(digit.size()>2)
+          {
+            vector<int>ans;
+            reverse(digit.begin(),digit.end());
+
+            for(int i=0;i<digit.size()-1;i++)
+            {
+                ans.push_back((digit[i]+digit[i+1])%10);
+
+            }
+            digit.swap(ans);
+
+              
+
+          }
+        return digit[0]==digit[1];
     }
 };
