@@ -1,47 +1,22 @@
 class Solution {
 public:
-
-  string  has(string &s)
+ 
+    string has(string &s)
     {
-        stack<int>st;
-        for(int i=s.size()-1;i>=0;i--)
+        string s2="";
+        for(int i=0;i<s.size()-1;i++)
         {
-            st.push(s[i]-'0');
+            int a=((s[i]-'0')+(s[i+1]-'0'))%10;
+            s2+=to_string(a);
         }
-        string s1="";
-        while(!st.empty())
-        {
-            if(!st.empty())
-            {  
-                int x=st.top();
-                st.pop();
-                if(!st.empty())
-                 {
-                    int a=(x+st.top())%10;
-                    s1+=a;
-                 }
-
-            }
-          
-        }
-         return s1;
-
+        return s2;
     }
-  
-    
-  
     bool hasSameDigits(string s) {
-     
-      while(s.size()!=2)
-      {
-        s=has(s);
-      }
-       
-      if(s[0]!=s[1])
-      {
-        return false;
-      }
+        while(s.size()>2)
+        {
+            s=has(s);
+        }
 
-    return true;
+        return s[0]==s[1];
     }
 };
