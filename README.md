@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3462-vowels-game-in-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/3462-vowels-game-in-a-string) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0389-find-the-difference) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Stack
 |  |
 | ------- |
