@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0643-maximum-average-subarray-i) |
+| [0867-transpose-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0867-transpose-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0948-sort-an-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0498-diagonal-traverse) |
+| [0867-transpose-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0867-transpose-matrix) |
 | [0874-backspace-string-compare](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0874-backspace-string-compare) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0498-diagonal-traverse) |
+| [0867-transpose-matrix](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/0867-transpose-matrix) |
 ## Merge Sort
 |  |
 | ------- |
