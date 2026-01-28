@@ -1,41 +1,45 @@
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
-        int n = nums.size();
-        vector<vector<int>> ans;
 
-        // Sort the array
-        sort(nums.begin(), nums.end());
+        vector<vector<int>>vt;
+        sort(nums.begin(),nums.end());
 
-        for (int i = 0; i < n; i++) {
-            if (i > 0 && nums[i] == nums[i - 1]) continue; // Avoid duplicates for i
+        if(nums.size()<4)
+        return {};
 
-            for (int j = i + 1; j < n; j++) {
-                if (j > i + 1 && nums[j] == nums[j - 1]) continue; // Avoid duplicates for j
+        for(int i=0;i<nums.size()-3;i++)
+        {
+            if(i>0&&nums[i]==nums[i-1])continue;
+            for(int j=i+1;j<nums.size()-2;j++)
+            {
+                 if(j>i+1&&nums[j]==nums[j-1])continue;
+                int start=j+1;
+                int end=nums.size()-1;
 
-                int k = j + 1, l = n - 1;
+                while(start<end)
+                {
+                    long long  sum=(long long) nums[start]+nums[end]+nums[i]+nums[j];
+                    if(sum==target)
+                    {
+                        vt.push_back({nums[i],nums[j],nums[start],nums[end]});
+                        start++;
+                        end--;
 
-                while (k < l) {
-                    long long sum = (long long)nums[i] + nums[j] + nums[k] + nums[l];
+                        while(start<end&&nums[start]==nums[start-1])start++;
+                        while(start<end&&nums[end]==nums[end+1])end--;
 
-                    if (sum == target) {
-                        ans.push_back({nums[i], nums[j], nums[k], nums[l]});
-                        k++, l--;
-
-                        // Skip duplicates for k and l
-                        while (k < l && nums[k] == nums[k - 1]) k++;
-                        while (k < l && nums[l] == nums[l + 1]) l--;
                     }
-                    else if (sum < target) {
-                        k++;
+                    else if(sum>target)
+                    {
+                        end--;
                     }
-                    else {
-                        l--;
-                    }
+                    else
+                    start++;
                 }
+
             }
         }
-
-        return ans;
+        return vt;
     }
 };
