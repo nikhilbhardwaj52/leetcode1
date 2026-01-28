@@ -3,45 +3,39 @@ public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         //sort the array
         sort(nums.begin(),nums.end());
+        vector<vector<int>>vt;
 
-        //vector
         
-        vector<vector<int>>v;
-
-        set<vector<int>>vt;
-
-        //new 
-
-         for(int i=0;i<nums.size()-2;i++)
-         {
-            int first=0-nums[i];
-
+        for(int i=0;i<nums.size();i++ )
+        {
+            if(i>0&&nums[i]==nums[i-1])continue;
             int start=i+1;
             int end=nums.size()-1;
-
             while(start<end)
             {
-                if(nums[start]+nums[end]==first)
+                int sum=nums[start]+nums[end]+nums[i];
+                if(sum==0)
                 {
-                vt.insert({nums[start],nums[end],nums[i]});
-                start++;
-                end--;
+                    vt.push_back({nums[start],nums[end],nums[i]});
+                    start++;
+                    end--;
+
+                    while(start<end&&nums[start]==nums[start-1])
+                    start++;
+
+                    while(start<end&&nums[end]==nums[end+1])
+                    end--;
+
+
                 }
-
-                else if(nums[start]+nums[end]>first)
-                end--;
-
+                else if(sum>0)
+                {
+                  end--;
+                }
                 else
                 start++;
             }
-         }
-
-         for(auto it=vt.begin();it!=vt.end();it++ )
-         {
-            v.push_back(*it);
-         }
-        
-
-        return v;
+        }
+        return vt;
     }
 };
