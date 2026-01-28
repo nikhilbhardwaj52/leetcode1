@@ -5,12 +5,14 @@ public:
         sort(nums.begin(),nums.end());
 
         //vector
-        set<vector<int>>vt;
+        
         vector<vector<int>>v;
+
+        set<vector<int>>vt;
 
         //new 
 
-         for(int i=0;i<nums.size();i++)
+         for(int i=0;i<nums.size()-2;i++)
          {
             int first=0-nums[i];
 
