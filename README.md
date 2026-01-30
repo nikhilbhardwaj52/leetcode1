@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2032-largest-odd-number-in-string) |
+| [2129-capitalize-the-title](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2129-capitalize-the-title) |
 | [2470-removing-stars-from-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2470-removing-stars-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/nikhilbhardwaj52/leetcode1/tree/master/2887-sort-vowels-in-a-string) |
